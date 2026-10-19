@@ -26,4 +26,4 @@ The `wildframe-os.svg` wallpaper is original. Wildframe OS is an independent Ubu
 See [FEATURES.md](FEATURES.md) for three local tools included for wildlife and nature photography, RAW image development, and photo editing.
 
 
-The installer includes fifteen additional purpose-specific applications; the complete list is in [FEATURES.md](FEATURES.md).
+The installer includes 43 purpose-specific applications beyond its core selection; the complete list is in [FEATURES.md](FEATURES.md).
