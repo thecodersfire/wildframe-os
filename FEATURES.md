@@ -87,3 +87,23 @@ Game frontends do not include proprietary game data; add only games or files you
 ## Blender included in every setup
 
 Blender (org.blender.Blender) is included in every setup for 3D modeling, animation, rendering, and video editing. Installers fetch it from Flathub; Blender’s own license and terms apply.
+
+## Fifteen additional purpose-specific applications
+
+The setup adds these Flathub applications for wildlife and nature photography, RAW image development, and photo editing. Applications are fetched from Flathub by the setup script; each app keeps its own licensing and terms.
+
+1. **Podman Desktop** (io.podman_desktop.PodmanDesktop) — Manage local containers and inspect development environments.
+2. **KDevelop** (org.kde.kdevelop) — Navigate and build C++, Python, and other software projects.
+3. **Kate** (org.kde.kate) — Edit code and text with projects, syntax highlighting, and sessions.
+4. **GNOME Builder** (org.gnome.Builder) — Develop and debug software projects in an integrated workspace.
+5. **Gitg** (org.gnome.gitg) — Inspect Git history and stage project changes.
+6. **KDiff3** (org.kde.kdiff3) — Review file and directory differences with three-way merge support.
+7. **Umbrello UML Modeller** (org.kde.umbrello) — Create UML diagrams to plan software architecture.
+8. **Rocs** (org.kde.rocs) — Explore graph algorithms and data structures visually.
+9. **Kst** (org.kde.kst) — Display and inspect scientific measurement and time-series data.
+10. **LabPlot** (org.kde.labplot) — Plot and analyze data imported from spreadsheets or research files.
+11. **DB Browser for SQLite** (org.sqlitebrowser.sqlitebrowser) — Inspect and edit SQLite database files.
+12. **DBeaver Community** (io.dbeaver.DBeaverCommunity) — Explore and query supported SQL databases.
+13. **Wireshark** (org.wireshark.Wireshark) — Inspect packet captures for network troubleshooting and coursework.
+14. **VSCodium** (com.vscodium.codium) — Edit source code and manage software projects.
+15. **Godot Engine** (org.godotengine.Godot) — Build and test interactive games and prototypes.
