@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/wildframe-os-workspace features/wildframe-os-plan features/wildframe-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for wildlife and nature photography, RAW image development, and photo editing:
+
+1. **QGIS** — org.qgis.qgis
+2. **GNOME Maps** — org.gnome.Maps
+3. **LibreOffice** — org.libreoffice.LibreOffice
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.

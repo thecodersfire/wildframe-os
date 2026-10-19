@@ -4,3 +4,8 @@ com.opera.opera-gx
 org.darktable.Darktable
 org.gimp.GIMP
 org.kde.krita
+
+# Three additional preinstalled purpose-specific applications
+org.qgis.qgis
+org.gnome.Maps
+org.libreoffice.LibreOffice
