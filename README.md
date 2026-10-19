@@ -26,8 +26,4 @@ The `wildframe-os.svg` wallpaper is original. Wildframe OS is an independent Ubu
 See [FEATURES.md](FEATURES.md) for three local tools included for wildlife and nature photography, RAW image development, and photo editing.
 
 
-The installer also includes three purpose-specific applications: **QGIS, GNOME Maps, LibreOffice**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **LibreOffice, GNOME Calendar, KeePassXC**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **QGIS, GNOME Maps, LibreOffice**. See [FEATURES.md](FEATURES.md).
+The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.
