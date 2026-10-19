@@ -39,3 +39,25 @@ The setup installs these ten Flathub apps selected for wildlife and nature photo
 10. **GNOME Calculator** — perform scientific and financial calculations (org.gnome.Calculator)
 
 Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
+
+## Fifteen more purpose-specific preinstalled applications
+
+These applications add tools suited to this setup focus. They are installed from Flathub by the setup scripts.
+
+1. **RawTherapee** (com.rawtherapee.RawTherapee) — develop RAW photo files with tone and color controls.
+2. **digiKam** (org.kde.digikam) — catalog, tag, and batch-process large photo collections.
+3. **Shotwell** (org.gnome.Shotwell) — import, sort, and make quick edits to photo libraries.
+4. **Pixelorama** (com.orama_interactive.Pixelorama) — draw pixel-art sprites and frame-based animations.
+5. **Synfig Studio** (org.synfig.SynfigStudio) — create vector-based 2D animations.
+6. **OpenToonz** (io.github.OpenToonz) — produce hand-drawn and cutout 2D animation.
+7. **LibreCAD** (org.librecad.librecad) — draft precise 2D technical drawings.
+8. **QElectroTech** (org.qelectrotech.QElectroTech) — draw electrical schematics and wiring diagrams.
+9. **Thunderbird** (org.mozilla.Thunderbird) — manage email and communication accounts.
+10. **Inkscape** (org.inkscape.Inkscape) — create vector illustrations and diagrams.
+11. **Blender** (org.blender.Blender) — create 3D assets and animations.
+12. **Disk Usage Analyzer** (org.gnome.baobab) — find large files and manage storage.
+13. **GNOME Logs** (org.gnome.Logs) — inspect logs during troubleshooting.
+14. **Flatseal** (com.github.tchx84.Flatseal) — review Flatpak app permissions.
+15. **Kdenlive** (org.kde.kdenlive) — edit video timelines.
+
+Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.
